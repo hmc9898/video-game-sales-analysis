@@ -30,3 +30,9 @@ This project investigates global video game sales data to uncover market trends,
 - Action and sports games consistently rank highest in global sales  
 - Platforms like PlayStation and Xbox show strong historical dominance  
 - Higher critic scores are positively associated with sales performance, though platform and genre remain stronger indicators
+
+## Author
+
+Heather Marie Culligan  
+[LinkedIn](https://linkedin.com/in/hmc2025)  
+[GitHub](https://github.com/hmc9898)
